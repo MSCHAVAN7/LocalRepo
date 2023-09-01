@@ -11,4 +11,4 @@ def search_missing_number(list_num):
     return total - sum_of_L
 
 num_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13]
-print("The missing number is", search_missing_number(num_list))
+print("The missing number is: ", search_missing_number(num_list))
